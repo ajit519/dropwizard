@@ -1,0 +1,7 @@
+dateFormat: "yyyy-MM-dd'T'HH:mmZ"
+logging: 
+  level: INFO
+  loggers: 
+    com.example.dropwizard: DEBUG
+server: 
+  rootPath: /api/*
